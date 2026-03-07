@@ -3,7 +3,7 @@
 **Course Name:** DA6401\
 **Author:** Dhadapani N\
 **Roll No:** BT25S018\
-**email id:** bt25s018@smail.iitm.ac.in
+**Email Id:** bt25s018@smail.iitm.ac.in
 
 ## Links
 
