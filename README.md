@@ -32,38 +32,38 @@ Weights & Biases (W&B) is used for experiment tracking and hyperparameter sweeps
 
 ## Project Structure
 
-.
-├── models
-├── output
-│   ├── best_config.json
-│   ├── models
-│   │   ├── best_model.npy
-│   │   └── last_epoch_model.npy
-│   └── plots
-│       ├── accuracy_vs_epoch_curve.png
-│       └── loss_vs_epoch_curve.png
-├── README.md
-├── requirements.txt
-└── src
-    ├── ann
-    │   ├── activations.py
-    │   ├── __init__.py
-    │   ├── metrics_util.py
-    │   ├── neural_layer.py
-    │   ├── neural_network.py
-    │   ├── objective_functions.py
-    │   ├── optimizers.py
-    ├── best_config.json
-    ├── best_model.npy
-    ├── inference.py
-    ├── train.py
-    └── utils
-	├── data_loader.py
-	├── __init__.py
-	├── metrics_util.py
-	├── model_io.py
-	├── model_util.py
-	└── plot_util.py
+	.
+	├── models
+	├── output
+	│   ├── best_config.json
+	│   ├── models
+	│   │   ├── best_model.npy
+	│   │   └── last_epoch_model.npy
+	│   └── plots
+	│       ├── accuracy_vs_epoch_curve.png
+	│       └── loss_vs_epoch_curve.png
+	├── README.md
+	├── requirements.txt
+	└── src
+	    ├── ann
+	    │   ├── activations.py
+	    │   ├── __init__.py
+	    │   ├── metrics_util.py
+	    │   ├── neural_layer.py
+	    │   ├── neural_network.py
+	    │   ├── objective_functions.py
+	    │   ├── optimizers.py
+	    ├── best_config.json
+	    ├── best_model.npy
+	    ├── inference.py
+	    ├── train.py
+	    └── utils
+		├── data_loader.py
+		├── __init__.py
+		├── metrics_util.py
+		├── model_io.py
+		├── model_util.py
+		└── plot_util.py
 
 
 ------------------------------------------------------------------------
