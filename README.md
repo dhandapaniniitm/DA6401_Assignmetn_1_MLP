@@ -45,6 +45,10 @@ Weights & Biases (W&B) is used for experiment tracking and hyperparameter sweeps
 	├── README.md
 	├── requirements.txt
 	└── src
+		├── best_config.json
+	    ├── best_model.npy
+	    ├── inference.py
+	    ├── train.py
 	    ├── ann
 	    │   ├── activations.py
 	    │   ├── __init__.py
@@ -53,18 +57,13 @@ Weights & Biases (W&B) is used for experiment tracking and hyperparameter sweeps
 	    │   ├── neural_network.py
 	    │   ├── objective_functions.py
 	    │   ├── optimizers.py
-	    ├── best_config.json
-	    ├── best_model.npy
-	    ├── inference.py
-	    ├── train.py
 	    └── utils
-		├── data_loader.py
-		├── __init__.py
-		├── metrics_util.py
-		├── model_io.py
-		├── model_util.py
-		└── plot_util.py
-
+			├── data_loader.py
+			├── __init__.py
+			├── metrics_util.py
+			├── model_io.py
+			├── model_util.py
+			└── plot_util.py
 
 ------------------------------------------------------------------------
 
