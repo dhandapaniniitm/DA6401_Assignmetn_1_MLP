@@ -3,6 +3,7 @@
 **Course Name:** DA6401\
 **Author:** Dhadapani N\
 **Roll No:** BT25S018
+**email id:** bt25s018@smail.iitm.ac.in
 
 ## Links
 
@@ -180,5 +181,4 @@ Balanced Accuracy: **0.9780153151902345**
 
 ## Contact
 
-For questions or issues, please contact the course teaching staff or
-post on the course forum.
+For questions or issues, please contact the email id given above.
