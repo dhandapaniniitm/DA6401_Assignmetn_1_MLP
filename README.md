@@ -132,26 +132,26 @@ configurations.
 
 # CLI Parameters
 
-  Argument   Description                       Default
-  ---------- --------------------------------- ---------------------------
-  -d         Dataset (mnist / fashion_mnist)   mnist
-  -vs        Validation split                  0.1
-  -e         Epochs                            20
-  -b         Batch size                        64
-  -l         Loss function (ce / mse)          ce
-  -o         Optimizer                         rmsprop
-  -lr        Learning rate                     0.0005
-  -wd        Weight decay                      0
-  -nhl       Number of hidden layers           3
-  -sz        Hidden layer sizes                128 128 64
-  -a         Activation functions              relu relu relu
-  -w_i       Weight initialization             xavier
-  -s         Random seed                       42
-  -ms        Model save path                   output/models/
-  -cs        Config save path                  output/best_config.json
-  -wa        WandB API key                     None
-  -wp        WandB project name                DA6401_assn_1_mlp_trail_1
-  --sweep    Enable sweep                      False
+	  Argument   Description                       Default
+	  ---------- --------------------------------- ---------------------------
+	  -d         Dataset (mnist / fashion_mnist)   mnist
+	  -vs        Validation split                  0.1
+	  -e         Epochs                            20
+	  -b         Batch size                        64
+	  -l         Loss function (ce / mse)          ce
+	  -o         Optimizer                         rmsprop
+	  -lr        Learning rate                     0.0005
+	  -wd        Weight decay                      0
+	  -nhl       Number of hidden layers           3
+	  -sz        Hidden layer sizes                128 128 64
+	  -a         Activation functions              relu relu relu
+	  -w_i       Weight initialization             xavier
+	  -s         Random seed                       42
+	  -ms        Model save path                   output/models/
+	  -cs        Config save path                  output/best_config.json
+	  -wa        WandB API key                     None
+	  -wp        WandB project name                DA6401_assn_1_mlp_trail_1
+	  --sweep    Enable sweep                      False
 
 ------------------------------------------------------------------------
 
