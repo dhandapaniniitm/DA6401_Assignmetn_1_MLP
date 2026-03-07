@@ -1,0 +1,29 @@
+{
+    "dataset": "mnist",
+    "val_size_from_train": 0.1,
+    "epochs": 20,
+    "batch_size": 64,
+    "loss": "ce",
+    "optimizer": "rmsprop",
+    "learning_rate": 0.0005,
+    "weight_decay": 0.0,
+    "num_layers": 3,
+    "hidden_size": [
+        128,
+        128,
+        64
+    ],
+    "activations": [
+        "relu",
+        "relu",
+        "relu"
+    ],
+    "weight_init": "xavier",
+    "seed": 42,
+    "output_path": "output/",
+    "model_save_path": "output/models/",
+    "config_saved_path": "output/best_config.json",
+    "wandb_api_key": null,
+    "wandb_project": "DA6401_assn_1_mlp_trail_1",
+    "sweep": false
+}
