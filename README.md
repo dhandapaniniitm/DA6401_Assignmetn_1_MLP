@@ -4,9 +4,6 @@
 **Author:** Dhadapani N\
 **Roll No:** BT25S018
 
-Link to WandB Report :
-Link to Github :
-
 ## Links
 
 **Link to WandB Report:**
