@@ -1,7 +1,7 @@
 # Assignment 1: Multi-Layer Perceptron for Image Classification
 
 **Course Name:** DA6401\
-**Author:** Dhadapani N\
+**Author:** Dhandapani N\
 **Roll No:** BT25S018\
 **Email Id:** bt25s018@smail.iitm.ac.in
 
